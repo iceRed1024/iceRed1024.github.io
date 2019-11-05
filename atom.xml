@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://iceRed1024.github.io</id>
     <title>小红博客</title>
-    <updated>2019-11-05T06:29:23.147Z</updated>
+    <updated>2019-11-05T06:32:22.636Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://iceRed1024.github.io"/>
     <link rel="self" href="https://iceRed1024.github.io/atom.xml"/>
@@ -10,6 +10,58 @@
     <logo>https://iceRed1024.github.io/images/avatar.png</logo>
     <icon>https://iceRed1024.github.io/favicon.ico</icon>
     <rights>All rights reserved 2019, 小红博客</rights>
+    <entry>
+        <title type="html"><![CDATA[实用网站推荐]]></title>
+        <id>https://iceRed1024.github.io/post/shi-yong-wang-zhan-tui-jian</id>
+        <link href="https://iceRed1024.github.io/post/shi-yong-wang-zhan-tui-jian">
+        </link>
+        <updated>2019-11-05T06:18:45.000Z</updated>
+        <content type="html"><![CDATA[<p>1.商品历史价格查询<br>
+http://detail.tmallvvv.com/<br>
+操作方法：<br>
+方法①.<br>
+直接打开http://detail.tmallvvv.com/<br>
+在上方的输入框里输入商品的网址或商品口令查询历史价格。</p>
+<p>方法②.<br>
+例如 ：https://detail.tmall.com/item.htm?id=527080261251<br>
+添加vvv后变为 ：https://detail.tmallvvv.com/item.htm?id=527080261251</p>
+<p>支持天猫(detail.tmall.com、detail.m.tmall.com)、淘宝(item.taobao.com、h5.m.taobao.com)、京东(item.jd.com、item.m.jd.com)、一号店(item.yhd.com）、苏宁易购(product.suning.com)、网易考拉(goods.kaola.com)、当当网(product.dangdang.com)、亚马逊中国(www.amazon.cn)、国美(item.gome.com.cn)等电商商品详情的历史价格查询。</p>
+<p>2.VVV文档在线导出工具<br>
+http://wenku.baiduvvv.com/<br>
+操作方法:<br>
+在百度文库某文档域名后面加上vvv三个字母<br>
+比如:<br>
+全国中考中考化学题目类型总结之--酸碱盐 - 百度文库<br>
+加上 vvv 为:<br>
+https://wenku.baiduvvv.com/view/3e6d30b2fd0a79563c1e72bd.html</p>
+<p>3.网页快照网<br>
+搜索引擎网页快照查询，支持手机移动端-网页快照网<br>
+在某个网址的域名前面加上his.sh/ (注意别忘了加/)，即可显示该网址的在各大搜索引擎的网页快照。</p>
+<p>比如：<br>
+时间简史 (豆瓣)<br>
+在域名前面加上his.sh/ ，变为<br>
+https://his.sh/book.douban.com/subject/1034282/<br>
+或者 his.sh/时间简史 (豆瓣)</p>
+<p>4.万能命令(在线工具效率平台)<br>
+万能命令-快捷寻找和直达你想要的各类工具<br>
+该网站附带展示引用了更多其他实用工具,详见网站内容<br>
+使用方式：<br>
+①万能命令方式:<br>
+在任何网页的网址前面加上 wn.run/ (万能命令，wn为万能拼音简称，run为运行、命令的意思)，即可展示用于该网页的在线工具，并且点击工具时一般会直达针对该网页的功能详情页，无需再复制和粘贴网页链接。<br>
+例如：<br>
+【AppleMQD32CH/A】Apple MacBook Air 13.3 | Core i5 8...<br>
+在网址前面加上wn.run/ ，变为<br>
+wn.run/【AppleMQD32CH/A】Apple MacBook Air 13.3 | Core i5 8...</p>
+<p>②书签脚本方式(详情见网站说明)</p>
+<p>5.在线百度网盘提取码查询<br>
+https://pnote.net/pan/</p>
+<p>6.获取帧画面<br>
+https://v.pnote.net/</p>
+<p>7.小森林导航:收录电影,电视剧,软件工具,音乐,阅读等资源站<br>
+http://www.xsldh.vip/<br>
+<img src="https://iceRed1024.github.io/post-images/1572935120067.png" alt=""></p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://iceRed1024.github.io/post/hello-gridea</id>
