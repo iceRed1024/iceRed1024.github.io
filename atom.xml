@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://iceRed1024.github.io</id>
     <title>小红博客</title>
-    <updated>2020-03-10T07:55:12.319Z</updated>
+    <updated>2020-03-27T11:16:30.843Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://iceRed1024.github.io"/>
     <link rel="self" href="https://iceRed1024.github.io/atom.xml"/>
@@ -12,8 +12,8 @@
     <rights>All rights reserved 2020, 小红博客</rights>
     <entry>
         <title type="html"><![CDATA[分享几个国内的Chrome插件下载网站]]></title>
-        <id>https://iceRed1024.github.io/post/fen-xiang-ji-ge-guo-nei-de-chrome-cha-jian-xia-zai-wang-zhan</id>
-        <link href="https://iceRed1024.github.io/post/fen-xiang-ji-ge-guo-nei-de-chrome-cha-jian-xia-zai-wang-zhan">
+        <id>https://iceRed1024.github.io/post/fen-xiang-ji-ge-guo-nei-de-chrome-cha-jian-xia-zai-wang-zhan/</id>
+        <link href="https://iceRed1024.github.io/post/fen-xiang-ji-ge-guo-nei-de-chrome-cha-jian-xia-zai-wang-zhan/">
         </link>
         <updated>2020-03-10T07:05:30.000Z</updated>
         <content type="html"><![CDATA[<p>对于无法科学上网的朋友来说,下载个Chrome插件还是比较困难的。<br>
@@ -24,50 +24,50 @@
 <p><strong>1.Crx4Chrome</strong><br>
 https://www.crx4chrome.com/<br>
 数据信息较为全面,有不同形式的排行榜帮助用户自行选择所需<br>
-<img src="https://iceRed1024.github.io/post-images/1583825441147.png" alt=""></p>
+<img src="https://iceRed1024.github.io/post-images/1583825441147.png" alt="" loading="lazy"></p>
 <p>选择要下载的插件进入其详情页面,选择Download crx file from crx4chrome即可下载到本地,也可选择网站列出的其他下载路线<br>
-<img src="https://iceRed1024.github.io/post-images/1583825476316.png" alt=""></p>
+<img src="https://iceRed1024.github.io/post-images/1583825476316.png" alt="" loading="lazy"></p>
 <p><strong>2.浏览器插件下载中心</strong><br>
 网站提供的插件,应用,游戏,主题是同步于Chrome海外市场,理论上所有插件都适用与Chrome内核的浏览器,也就是说除IE,Safari,火狐外,国内绝大多数厂商的都可以使用<br>
 https://www.chromefor.com/<br>
-<img src="https://iceRed1024.github.io/post-images/1583825487443.png" alt=""></p>
+<img src="https://iceRed1024.github.io/post-images/1583825487443.png" alt="" loading="lazy"></p>
 <p>选择要下载的插件进入其详情页面,选择下载路线即可下载到本地,注意：非登录用户有下载次数限制<br>
-<img src="https://iceRed1024.github.io/post-images/1583825523884.png" alt=""><br>
-<img src="https://iceRed1024.github.io/post-images/1583825532333.png" alt=""></p>
+<img src="https://iceRed1024.github.io/post-images/1583825523884.png" alt="" loading="lazy"><br>
+<img src="https://iceRed1024.github.io/post-images/1583825532333.png" alt="" loading="lazy"></p>
 <p><strong>3.crxdl</strong><br>
 下载Chrome扩展插件Crx离线安装包<br>
 https://crxdl.com/<br>
-<img src="https://iceRed1024.github.io/post-images/1583825541545.png" alt=""></p>
+<img src="https://iceRed1024.github.io/post-images/1583825541545.png" alt="" loading="lazy"></p>
 <p>通过插件id或名称搜索后,在下载栏位选择下载<br>
-<img src="https://iceRed1024.github.io/post-images/1583825546319.png" alt=""></p>
+<img src="https://iceRed1024.github.io/post-images/1583825546319.png" alt="" loading="lazy"></p>
 <p><strong>4.Chrome插件网cnplugins.com</strong><br>
 http://www.cnplugins.com/<br>
 缺点：需关注公众号获取验证码方可下载插件<br>
 优点：Chrome插件分类化,百科解答,插件下载排行等<br>
-<img src="https://iceRed1024.github.io/post-images/1583825627203.png" alt=""><br>
-<img src="https://iceRed1024.github.io/post-images/1583825633529.png" alt=""></p>
+<img src="https://iceRed1024.github.io/post-images/1583825627203.png" alt="" loading="lazy"><br>
+<img src="https://iceRed1024.github.io/post-images/1583825633529.png" alt="" loading="lazy"></p>
 <p><strong>5.Chrome插件网</strong><br>
 https://chromecj.com/<br>
 缺点：需关注公众号获取验证码方可下载插件<br>
 优点：扩展分类化,提供插件排行等资讯<br>
-<img src="https://iceRed1024.github.io/post-images/1583825641689.png" alt=""><br>
-<img src="https://iceRed1024.github.io/post-images/1583825646207.png" alt=""></p>
+<img src="https://iceRed1024.github.io/post-images/1583825641689.png" alt="" loading="lazy"><br>
+<img src="https://iceRed1024.github.io/post-images/1583825646207.png" alt="" loading="lazy"></p>
 <p><strong>6.ExtfansChrome 插件扩展下载网</strong><br>
 https://www.extfans.com/<br>
 缺点：需关注公众号获取验证码方可下载插件<br>
 优点：扩展分类化,提供安装教程,插件详情资讯等<br>
-<img src="https://iceRed1024.github.io/post-images/1583825655190.png" alt=""><br>
-<img src="https://iceRed1024.github.io/post-images/1583825659326.png" alt=""></p>
+<img src="https://iceRed1024.github.io/post-images/1583825655190.png" alt="" loading="lazy"><br>
+<img src="https://iceRed1024.github.io/post-images/1583825659326.png" alt="" loading="lazy"></p>
 <pre><code>                                        **End**
                         **感兴趣或有需要的童鞋赶紧去试试吧😊**
 </code></pre>
-<figure data-type="image" tabindex="1"><img src="https://iceRed1024.github.io/post-images/1583826529455.png" alt=""></figure>
+<figure data-type="image" tabindex="1"><img src="https://iceRed1024.github.io/post-images/1583826529455.png" alt="" loading="lazy"></figure>
 ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[实用网站推荐]]></title>
-        <id>https://iceRed1024.github.io/post/shi-yong-wang-zhan-tui-jian</id>
-        <link href="https://iceRed1024.github.io/post/shi-yong-wang-zhan-tui-jian">
+        <id>https://iceRed1024.github.io/post/shi-yong-wang-zhan-tui-jian/</id>
+        <link href="https://iceRed1024.github.io/post/shi-yong-wang-zhan-tui-jian/">
         </link>
         <updated>2019-11-05T06:18:45.000Z</updated>
         <content type="html"><![CDATA[<p>1.商品历史价格查询<br>
@@ -113,13 +113,13 @@ https://pnote.net/pan/</p>
 https://v.pnote.net/</p>
 <p>7.小森林导航:收录电影,电视剧,软件工具,音乐,阅读等资源站<br>
 http://www.xsldh.vip/<br>
-<img src="https://iceRed1024.github.io/post-images/1572935120067.png" alt=""></p>
+<img src="https://iceRed1024.github.io/post-images/1572935120067.png" alt="" loading="lazy"></p>
 ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://iceRed1024.github.io/post/hello-gridea</id>
-        <link href="https://iceRed1024.github.io/post/hello-gridea">
+        <id>https://iceRed1024.github.io/post/hello-gridea/</id>
+        <link href="https://iceRed1024.github.io/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
